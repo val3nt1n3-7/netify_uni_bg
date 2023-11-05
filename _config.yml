@@ -1,7 +1,9 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.netlify.app"   #change this to yours
-repository: yourusername/yourrepository
+url: "https://bayesianbloghometask.netlify.app"   #change this to yours
+repository: val3nt1n3-7/netify_uni_bg
+
+
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
 timezone: UTC
