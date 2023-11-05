@@ -1,17 +1,19 @@
 backend:
   name: github
-  repo: githubusername/yourrepositoryname # Path to your GitHub repository
+  repo: val3nt1n3-7/netify_uni_bg
+
+ # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: yoursite.netlify.app #Your site on netlify
+  site_domain: bayesianbloghometask.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://yoursite.netlify.app
-logo_url: https://yoursite.netlify.app/uploads/logo.jpg
+display_url: https://bayesianbloghometask.netlify.app
+logo_url: https://bayesianbloghometask.netlify.app/uploads/logo.jpg
 
 # Do NOT edit below this line unless you want to change the home page
-
+  
 media_folder: "uploads" # Media files will be stored in the repo under /uploads
 public_folder: "../uploads"
 
